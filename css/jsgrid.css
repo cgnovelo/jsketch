@@ -1,0 +1,31 @@
+body {
+	background-color: #CCD8F2;
+}
+#mainwrapper {
+	width: 100%;
+}
+#topbar {
+	background-color: #5C6B8A;
+	width: 90%;
+	display: block;
+	text-align: center;
+	border-radius: 5px;
+	margin-left: auto;
+    margin-right: auto;
+}
+#title1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: white;
+}
+#gridwrap {
+	width: 960px;
+	margin-left: auto;
+    margin-right: auto;
+    border: 1px solid white;
+}
+.gridItem{
+	background-color: #000;
+	border: 1px solid #CCD8F2;
+	display: inline-block;
+}
